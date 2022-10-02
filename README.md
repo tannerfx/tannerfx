@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tannerfx
-a cybersecurity student @wsu | infosec intern @vanta
+wsu'24 | infosec intern @vanta
 
 
 <!---
