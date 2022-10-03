@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tannerfx
+- Hello, I’m @tannerfx
 wsu'24 | infosec intern @vanta
 
 
