@@ -1,5 +1,5 @@
 - Hello, I’m @tannerfx
-wsu'24 | infosec intern @vanta
+- infosec intern @vanta
 
 
 <!---
